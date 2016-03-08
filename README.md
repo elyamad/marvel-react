@@ -10,6 +10,20 @@ npm install
 npm start
 Browse to http://localhost:8080
 ```
+## Nice to know
+If you have a problem saying
+``` 
+No 'Access-Control-Allow-Origin' header is present on the requested resource
+```
+you it must restart your navigator with the option 
+```
+--disable-web-security
+```
+
+In my case, i do 
+```
+chromium-browser --disable-web-security
+```
 
 License
 -------
