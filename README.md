@@ -24,6 +24,10 @@ In my case, i do
 ```
 chromium-browser --disable-web-security
 ```
+## Some screenshots
+
+![List of characters](http://i.imgur.com/efywH8y.png)
+![Character details](http://i.imgur.com/wnDZl25.png)
 
 License
 -------
