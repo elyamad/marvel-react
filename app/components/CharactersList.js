@@ -29,7 +29,7 @@ var CharactersList = React.createClass({
 
   render() {
     var characters = this.state.characters;
-    if(characters.length) {
+    if(characters && characters.length) {
       var _charactersItems = [];
 
       characters.forEach(function (character, i) {
