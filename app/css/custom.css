@@ -1,0 +1,20 @@
+body {
+  padding-top: 80px;
+}
+.header {
+  height: 70px;
+  background-color: #FFFFEB;
+}
+.main {
+  padding: 80px 50px;
+}
+
+.charactersList img {
+    width: 250px;
+    height: 220px;
+}
+
+.characterInfo img {
+    width: auto;
+    height: auto;
+}
